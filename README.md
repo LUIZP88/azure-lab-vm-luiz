@@ -48,7 +48,7 @@ O conteúdo documentado aqui serve como um guia prático para a criação, confi
 - Utilize grupos de recursos para gerenciar facilmente os recursos relacionados a um mesmo projeto.
 
 ##  Imagens
-As imagens utilizadas nesta documentação estão armazenadas na pasta [`/imagens`](./imagens). Cada uma delas está nomeada conforme a ordem das etapas descritas acima, proporcionando uma navegação clara e cronológica.
+As imagens utilizadas nesta documentação estão armazenadas na pasta (https://github.com/LUIZP88/azure-lab-vm-luiz/tree/main/images). Cada uma delas está nomeada conforme a ordem das etapas descritas acima, proporcionando uma navegação clara e cronológica.
 
 ##  Autor
 Luiz Vieira
